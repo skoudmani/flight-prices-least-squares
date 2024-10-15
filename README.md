@@ -18,3 +18,5 @@ The analysis applies **least squares fitting** to explore the relationships betw
 
 - Python 3.x
 - Required libraries: `pandas`, `numpy`, `matplotlib`
+
+See requirements.txt for details.
