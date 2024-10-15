@@ -20,3 +20,5 @@ The analysis applies **least squares fitting** to explore the relationships betw
 - Required libraries: `pandas`, `numpy`, `matplotlib`
 
 See requirements.txt for details.
+
+Explore this project in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skoudmani/flight-prices-least-squares.git/HEAD)
